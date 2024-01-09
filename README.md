@@ -23,6 +23,7 @@ The README in English can be found here: [README_en.md](https://github.com/maked
 ## Донаты (EVM): 
 - `0x74eEfCAD1Ad18705596106703A3036BaAD6B3145`
 
+## Ссылки 
 <a name="Ссылки"></a> 
 - https://t.me/crypto_maked0n1an
 - [Ультимативный гайд по запуску скриптов. Python.](https://teletype.in/@hodlmod.eth/how-to-run-scripts)
