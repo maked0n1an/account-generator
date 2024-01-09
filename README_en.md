@@ -1,14 +1,15 @@
 <h1 align="center">Account Generator<h1>
 
-The README in Russian can be found here: [README_en.md](https://github.com/maked0n1an/account-generator/blob/main/README.md).
+The README in Russian can be found here: [README.md](https://github.com/maked0n1an/account-generator/blob/main/README.md).
 
 Created by [maked0n1an](https://t.me/crypto_maked0n1an);
 
 <h2>Description</h2>
 The bot has been created as an alternative to Cointool Batch Wallet Generator.
 Creates any number of accounts like (address, private, mnemonic) in Excel or CSV format.
-It will be supplemented in the future.
+The account files will be in 'results' folder.
 
+It will be supplemented in the future.
 
 ## Installation and launch
 If you don’t have knowledge about installing Python and running it, then go to the section [Links](#links):
@@ -26,5 +27,5 @@ If you don’t have knowledge about installing Python and running it, then go to
 ## Links 
 <a name="Links"></a> 
 - https://t.me/crypto_maked0n1an
-- [Ультимативный гайд по запуску скриптов. Python. (RU)](https://teletype.in/@hodlmod.eth/how-to-run-scripts)
+- [The ultimate guide to running scripts. Python. (RU)](https://teletype.in/@hodlmod.eth/how-to-run-scripts)
 
