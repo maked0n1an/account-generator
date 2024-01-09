@@ -7,8 +7,9 @@ Created by [maked0n1an](https://t.me/crypto_maked0n1an);
 <h2>Description</h2>
 The bot has been created as an alternative to Cointool Batch Wallet Generator.
 Creates any number of accounts like (address, private, mnemonic) in Excel or CSV format.
-It will be supplemented in the future.
+The account files will be in 'results' folder.
 
+It will be supplemented in the future.
 
 ## Installation and launch
 If you don’t have knowledge about installing Python and running it, then go to the section [Links](#links):
