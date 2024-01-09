@@ -22,7 +22,7 @@ If you don’t have knowledge about installing Python and running it, then go to
 <pre><code>python main.py</code></pre>
 
 ## Donats (EVM): 
-- `0x74eEfCAD1Ad18705596106703A3036BaAD6B3145`
+<pre><code>0x74eEfCAD1Ad18705596106703A3036BaAD6B3145</code></pre>
 
 ## Disclaimer and Safety Advice
 
