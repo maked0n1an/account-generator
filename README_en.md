@@ -1,6 +1,6 @@
 <h1 align="center">Account Generator<h1>
 
-The README in Russian can be found here: [README_en.md](https://github.com/maked0n1an/account-generator/blob/main/README.md).
+The README in Russian can be found here: [README.md](https://github.com/maked0n1an/account-generator/blob/main/README.md).
 
 Created by [maked0n1an](https://t.me/crypto_maked0n1an);
 
