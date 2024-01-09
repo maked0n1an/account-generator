@@ -2,7 +2,7 @@ from modules.file_writers import ExcelWriter, CsvWriter
 from utils import ValidationException
 
 
-class WriterFactor:
+class WriterFactory:
     result_folder = 'results'
     
     @staticmethod

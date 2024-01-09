@@ -2,7 +2,7 @@ import questionary
 
 from questionary import Choice
 
-from modules import EthAccount, WriterFactor
+from modules import EthAccount, WriterFactory
 from utils import center_output, format_input
 
 
@@ -58,7 +58,7 @@ def main():
         account = EthAccount.generate_account(word_number)
         data.append(account)
     
-    writer = WriterFactor.create_writer(file_format, "accounts")
+    writer = WriterFactory.create_writer(file_format, "accounts")
     writer.write_data(data)
     
     center_output("✅ The accounts has been created successfully!")

@@ -1,2 +1,2 @@
 from .account import EthAccount
-from .writer_factory import WriterFactor
+from .writer_factory import WriterFactory
