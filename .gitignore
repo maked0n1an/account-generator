@@ -1,6 +1,7 @@
 ### venv template
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+results/
 .vscode
 
 .Python
