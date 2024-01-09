@@ -21,7 +21,7 @@ The README in English can be found here: [README_en.md](https://github.com/maked
 <pre><code>python main.py</code></pre>
 
 ## Донаты (EVM): 
-- `0x74eEfCAD1Ad18705596106703A3036BaAD6B3145`
+<pre><code>0x74eEfCAD1Ad18705596106703A3036BaAD6B3145</code></pre>
 
 ## Отказ от ответственности и рекомендации по Безопасности
 
