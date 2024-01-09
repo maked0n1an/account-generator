@@ -26,5 +26,5 @@ If you don’t have knowledge about installing Python and running it, then go to
 ## Links 
 <a name="Links"></a> 
 - https://t.me/crypto_maked0n1an
-- [Ультимативный гайд по запуску скриптов. Python. (RU)](https://teletype.in/@hodlmod.eth/how-to-run-scripts)
+- [The ultimate guide to running scripts. Python. (RU)](https://teletype.in/@hodlmod.eth/how-to-run-scripts)
 
