@@ -37,7 +37,7 @@ def get_file_format() -> str:
     
 
 def greetings():
-    name_label = "========= Wallet Creator ========="
+    name_label = "========= Account Generator ========="
     brand_label = "========== Author: M A K E D 0 N 1 A N =========="
     telegram = "======== https://t.me/crypto_maked0n1an ========" 
     
