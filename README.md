@@ -11,7 +11,7 @@ The README in English can be found here: [README_en.md](https://github.com/maked
 В будущем будет дополняться.
 
 ## Установка и запуск
-Если у тебя нет знаний по поводу установки Питона и его запуска, то тебе в раздел [Ccылки](#ссылки):
+Если у тебя нет знаний по поводу установки Питона и его запуска, аудита софтов, то тебе в раздел [Ccылки](#ссылки):
 
 * Устанавливаем библиотеки:
 <pre><code>$ pip install -r requirements.txt</code></pre>
@@ -31,4 +31,5 @@ The README in English can be found here: [README_en.md](https://github.com/maked
 ## Ссылки 
 <a name="Ссылки"></a> 
 - https://t.me/crypto_maked0n1an
+- [Гайд по аудиту софтов на наличие скамов](https://teletype.in/@brokeboi/dsxymHafdZb)
 - [Ультимативный гайд по запуску скриптов. Python.](https://teletype.in/@hodlmod.eth/how-to-run-scripts)
