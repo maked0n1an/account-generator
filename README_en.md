@@ -2,7 +2,10 @@
 
 The README in Russian can be found here: [README.md](https://github.com/maked0n1an/account-generator/blob/main/README.md).
 
-Created by [maked0n1an](https://t.me/crypto_maked0n1an);
+## 🔗 Links
+🔔 Channel: [M A K E D 0 N 1 A N](https://t.me/crypto_maked0n1an)
+
+[![Telegram channel](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/crypto_maked0n1an)](https://t.me/crypto_maked0n1an)
 
 <h2>Description</h2>
 The bot has been created as an alternative to Cointool Batch Wallet Generator.
