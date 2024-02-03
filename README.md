@@ -2,7 +2,10 @@
 
 The README in English can be found here: [README_en.md](https://github.com/maked0n1an/account-generator/blob/main/README_en.md).
 
-Создан [maked0n1an](https://t.me/crypto_maked0n1an);
+## 🔗 Ссылки
+🔔 Канал: [M A K E D 0 N 1 A N](https://t.me/crypto_maked0n1an)
+
+[![Telegram channel](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/crypto_maked0n1an)](https://t.me/crypto_maked0n1an)
 
 <h2>Описание</h2>
 Бот создан как альтернатива Cointool Batch Wallet Generator. 
@@ -33,3 +36,7 @@ The README in English can be found here: [README_en.md](https://github.com/maked
 - https://t.me/crypto_maked0n1an
 - [Гайд по аудиту софтов на наличие скамов](https://teletype.in/@brokeboi/dsxymHafdZb)
 - [Ультимативный гайд по запуску скриптов. Python.](https://teletype.in/@hodlmod.eth/how-to-run-scripts)
+
+Channel: 
+[![Telegram](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/crypto_maked0n1an)](https://t.me/crypto_maked0n1an)
+[![Telegram channel](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/crypto_maked0n1an)](https://t.me/crypto_maked0n1an)
