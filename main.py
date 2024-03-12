@@ -49,7 +49,7 @@ def greetings():
 def main():
     greetings()
     word_number = get_word_count()
-    wallet_num = int(format_input("Please type the number of wallets to generate: "))
+    wallet_num = int(format_input("Please type the amount of wallets to generate: "))
     file_format = get_file_format()
     
     data = []
